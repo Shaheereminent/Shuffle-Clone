@@ -1,2 +1,2 @@
 # Shuffle-Clone
-https://shaheerinayatali.github.io/Shuffle-Clone/
+https://shaheereminent.github.io/Shuffle-Clone/
